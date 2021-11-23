@@ -20,7 +20,26 @@ html {
   background-color: #28a745;
 }
 
+.text-c1 {
+  color: #212529;
+}
+
+.text-c2 {
+  color: #707070;
+}
+
+.text-c3 {
+  color: #F8F9FA;
+}
+
+.text-c4 {
+  color: #28a745;
+}
 
 nav img {
   height: 25px;
+}
+
+#products {
+  margin-top: 50px;
 }
